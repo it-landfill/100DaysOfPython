@@ -27,7 +27,7 @@ Follow the on page instructions once you've redeemed the Bite and see if you can
 
 **UPDATE: We decided to wrap the below (and a little more) into a Bite on the CodeChalleng.es Platform for you. You're still more than welcome to perform the work as per the below but if you want to try this in a Bite then [click here](https://codechalleng.es/bites/promo/listvsdict) to redeem the Bite for free.
 
-Create a script that imports the US States data structures contained in the following script file in our Repo: [https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py](https://github.com/talkpython/100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py) 
+Create a script that imports the US States data structures contained in the following script file in our Repo: [https://github.com/  /100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py] 100daysofcode-with-python-course/blob/master/days/07-09-data-structures/code/data.py) 
 
 Perform the following tasks on the list and dict. The less you look at them, the better this exercise will be. Remember: **Dicts are unsorted**.
 
@@ -42,6 +42,6 @@ Perform the following tasks on the list and dict. The less you look at them, the
 
 Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
 
-Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
+Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@  ](https://twitter.com/  ) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+*See a mistake in these instructions? Please [submit a new issue] 100daysofcode-with-python-course/issues) or fix it and [submit a PR] 100daysofcode-with-python-course/pulls).*

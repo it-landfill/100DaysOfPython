@@ -1,6 +1,6 @@
 00:00 We've made all the code we've written over our 100 days
 00:03 worth of topics available to you in GitHub right here.
-00:07 gitHub.com/talkpython/100daysofcode-with-python-course.
+00:07 gitHub.com/  /100daysofcode-with-python-course.
 00:12 You can go over here and check it out.
 00:14 This is also super important because some of the projects
 00:17 that you work on have either data that you've got to

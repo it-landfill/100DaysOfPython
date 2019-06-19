@@ -4,7 +4,7 @@ The code included here is exported from Anvil.
 
 To use this app, you'll first need an account. Be sure to use our link so you get a discount:
 
-Create an account via: [**talkpython.fm/anvil100**](https://talkpython.fm/anvil100)
+Create an account via: [**  .fm/anvil100**](https://  .fm/anvil100)
 
 If you want to use this demo app in your account, the easiest way is to "clone it online" using this link:
 

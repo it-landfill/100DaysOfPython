@@ -1,6 +1,6 @@
 # Days 55-57 Structured APIs with `uplink`
 
-Remember the [movie search service](http://movie_service.talkpython.fm/) we discussed when we first worked with HTTP services? It's back and you're going to build a proper API client for it using `uplink`.
+Remember the [movie search service](http://movie_service.  .fm/) we discussed when we first worked with HTTP services? It's back and you're going to build a proper API client for it using `uplink`.
 
 ## Day N: Application skeleton
 
@@ -17,7 +17,7 @@ Today is mostly watching the corresponding videos from the course. Be sure to wa
 
 ## Day N+1: Model the API
 
-Visit the movie search service: [movie_service.talkpython.fm](http://movie_service.talkpython.fm/).
+Visit the movie search service: [movie_service.  .fm](http://movie_service.  .fm/).
 
 You'll see there are three RESTful operations.
 
@@ -34,7 +34,7 @@ Your goal today will be to build an API client class in `api.py`.
 
 1. Create a class (name it something like `MovieSearchClient`).
 2. Indicate `uplink.Consumer` as the base class.
-3. Add a `__init__` method to pass `http://movie_service.talkpython.fm/` as the `base_url` to the super class.
+3. Add a `__init__` method to pass `http://movie_service.  .fm/` as the `base_url` to the super class.
 2. Add a method for each of the three HTTP endpoints
 
 Recall that you define an endpoint method inside the class as:
@@ -57,6 +57,6 @@ Now that you have your API client, write a simple UI in `program.py` that uses y
 
 Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
 
-Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
+Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@  ](https://twitter.com/  ) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+*See a mistake in these instructions? Please [submit a new issue] 100daysofcode-with-python-course/issues) or fix it and [submit a PR] 100daysofcode-with-python-course/pulls).*

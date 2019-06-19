@@ -1,4 +1,4 @@
-00:00 Over here at consumer_services_api.talkpython.fm,
+00:00 Over here at consumer_services_api.  .fm,
 00:04 we have at least three services that you can play with.
 00:09 So this is the backend for the blog,
 00:11 and it gives you the operations right here.

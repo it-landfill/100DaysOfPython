@@ -30,7 +30,7 @@
 01:04 We don't actually care how the API works.
 01:06 All that matters is, we pass a keyword here,
 01:09 and it's going to go over to a service
-01:11 over at movie_service.talkpython.fm.
+01:11 over at movie_service.  .fm.
 01:14 Do a search, get back some JSON data,
 01:17 and then return those here as results
 01:20 and we're going to loop over them.

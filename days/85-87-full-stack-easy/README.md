@@ -8,9 +8,9 @@ Today you've watched quite a few videos. Round out today with a little explorati
 
 First, you'll need to register at Anvil. Remember, if you use our code, you'll get 10% off a subscription if you decide you want one at a later date.
 
-Create an account via: [**talkpython.fm/anvil100**](https://talkpython.fm/anvil100)
+Create an account via: [**  .fm/anvil100**](https://  .fm/anvil100)
 
-[![](readme_resources/register.png)](https://talkpython.fm/anvil100)
+[![](readme_resources/register.png)](https://  .fm/anvil100)
 
 **Note:** *If you want to use the demo app in your account, the easiest way is to "clone it online" using this link: [anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U](https://anvil.works/ide#clone:5CHGY3Q6SBHQGA27=7WPAVZAGTUKSFK3QVI2XGV5U)*
 
@@ -52,6 +52,6 @@ Finally, if this is something you'd like to share with the world, be sure to pub
 
 Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
 
-Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
+Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@  ](https://twitter.com/  ) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+*See a mistake in these instructions? Please [submit a new issue] 100daysofcode-with-python-course/issues) or fix it and [submit a PR] 100daysofcode-with-python-course/pulls).*

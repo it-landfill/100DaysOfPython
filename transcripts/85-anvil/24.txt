@@ -28,6 +28,6 @@
 00:51 All right, that's it.
 00:52 I hope you enjoyed building this full stack web app the easy way.
 00:55 Be sure to share it on Twitter and Facebook #100DaysOfCode,
-00:58 and @mention both TalkPython and PyBites so we can
+00:58 and @mention both    and PyBites so we can
 01:02 share in the glory of what you've created.
 01:04 All right, get out there and build somethin' fun.

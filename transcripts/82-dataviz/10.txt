@@ -16,5 +16,5 @@
 00:48 that I've shown you in this lesson.
 00:50 And don't forget to share your work.
 00:52 You can use the hashtag #100DaysOfCode
-00:55 and feel free to mention TalkPython and PyBites
+00:55 and feel free to mention    and PyBites
 00:58 in your Tweets. Good luck and have fun.

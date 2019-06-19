@@ -25,7 +25,7 @@
 00:51 and it's also the most fun.
 00:53 So enjoy and don't forget to share your work.
 00:56 Use the #100DaysOfcode
-00:57 and feel free to include @TalkPython
+00:57 and feel free to include @  
 01:00 or @PyBites in your tweets
 01:02 because we would love to see what you come up with.
 01:04 Good luck and have fun.

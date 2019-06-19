@@ -15,7 +15,7 @@
 00:31 and made a direct link to populate
 00:34 the 100 Days for you.
 00:35 Head over to
-00:38 start talkpython
+00:38 start   
 00:44 and here you get a grid of 100 Days
 00:48 with exactly the materials of each day.
 00:51 So for example,

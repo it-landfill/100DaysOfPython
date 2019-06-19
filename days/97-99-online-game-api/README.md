@@ -31,7 +31,7 @@ There is already an app you can use to get started from here:
 
 On this first day, you already watched the videos. Now you'll need to design what data to store in the database and model that with SQLAlchemy.
 
-Feel free to borrow heavily from our code we already wrote for the **[SQLAlchemy day](https://github.com/talkpython/100daysofcode-with-python-course/tree/master/days/91-93-sqlalchemy)**.
+Feel free to borrow heavily from our code we already wrote for the **[SQLAlchemy day] 100daysofcode-with-python-course/tree/master/days/91-93-sqlalchemy)**.
 
 Note that you'll probably want a virtual environment for this one as it involves plenty of external packages.
 
@@ -67,6 +67,6 @@ Looking for a bonus? Try to deploy your web app somewhere like Heroku. Here's th
 
 Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
 
-Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
+Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@  ](https://twitter.com/  ) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+*See a mistake in these instructions? Please [submit a new issue] 100daysofcode-with-python-course/issues) or fix it and [submit a PR] 100daysofcode-with-python-course/pulls).*

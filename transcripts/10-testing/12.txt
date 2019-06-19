@@ -36,5 +36,5 @@
 01:23 writing test is a very important skill.
 01:26 Good luck and let us know what you come up with.
 01:28 Use the #100DaysOfCode and feel to include
-01:31 TalkPython or PyBites in your tweets.
+01:31    or PyBites in your tweets.
 01:34 All right, have fun.

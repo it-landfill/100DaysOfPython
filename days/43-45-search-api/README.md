@@ -18,9 +18,9 @@ Today is mostly watching the corresponding videos from the course. Be sure to wa
 
 ## Day 44: Calling the API
 
-Today, you will work with the search backend of [Talk Python To Me](https://talkpython.fm/): 
+Today, you will work with the search backend of [Talk Python To Me](https://  .fm/): 
 
-**[search.talkpython.fm](http://search.talkpython.fm/)**
+**[search.  .fm](http://search.  .fm/)**
 
 Open that link and poke around a bit.
 
@@ -80,6 +80,6 @@ Once you have that interaction working, you're done with these three days of the
 
 Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
 
-Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
+Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@  ](https://twitter.com/  ) and [@pybites](https://twitter.com/pybites) in your tweets.
 
-*See a mistake in these instructions? Please [submit a new issue](https://github.com/talkpython/100daysofcode-with-python-course/issues) or fix it and [submit a PR](https://github.com/talkpython/100daysofcode-with-python-course/pulls).*
+*See a mistake in these instructions? Please [submit a new issue] 100daysofcode-with-python-course/issues) or fix it and [submit a PR] 100daysofcode-with-python-course/pulls).*

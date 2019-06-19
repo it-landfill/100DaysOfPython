@@ -4,7 +4,7 @@
 00:05 and we're going to have you build an API client against
 00:08 an API which has several endpoints.
 00:10 You've seen this service before,
-00:11 over at movie_service.talkpython.fm,
+00:11 over at movie_service.  .fm,
 00:14 and it has these three endpoints.
 00:16 Recall we did this in one of our service demos previously
 00:19 but we're going to take an entirely different approach

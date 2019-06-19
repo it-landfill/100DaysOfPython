@@ -4,7 +4,7 @@
 00:06 but another one around the podcast
 00:08 just to keep it simple and stable.
 00:10 So what your going to do is we're going to
-00:12 interact with this search.talkpython.fm
+00:12 interact with this search.  .fm
 00:15 Now if you're over here and you're
 00:16 on Talk Python,
 00:17 and you try to search,

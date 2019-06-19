@@ -5,7 +5,7 @@
 00:08 First of all, the Talk Python to Me podcast.
 00:10 You probably know this podcast,
 00:11 maybe you subscribe to it but if you don't,
-00:14 head over to talkpython.fm and check out the podcast.
+00:14 head over to   .fm and check out the podcast.
 00:18 You will the hear the stories and the people behind
 00:21 so many of the projects that you worked with.
 00:23 You want to hear about SQLAlchemy?

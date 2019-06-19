@@ -24,7 +24,7 @@
 01:16 Yeah, we really like the work @python_tip is doing
 01:19 by tweeting out every day a Python tip or trick.
 01:22 @PacktPub, we tweet out the new free e-book every day,
-01:26 which is awesome. And of course, @TalkPython,
+01:26 which is awesome. And of course, @  ,
 01:29 we really like the show and
 01:31 all the stuff they put out there.
 01:32 Then Bader, @RealPython, they have excellent articles,

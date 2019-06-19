@@ -1,6 +1,6 @@
 00:00 Let's review the concepts in our search API.
 00:03 We started out by consuming the MovieDb service,
-00:06 at movie_service.talkpython.fm.
+00:06 at movie_service.  .fm.
 00:10 We saw that we could get postmen,
 00:12 which is a really nice way to
 00:14 explore and interact with the API,

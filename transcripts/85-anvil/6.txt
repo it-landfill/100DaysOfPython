@@ -2,12 +2,12 @@
 00:01 It's time to build something now that
 00:03 you've seen what we're going to build,
 00:04 and some of the building blocks, let's go over to Anvil.
-00:07 Now, I suggest you go to talkpython.fm/anvil to get started,
+00:07 Now, I suggest you go to   .fm/anvil to get started,
 00:11 I'm working with the guys there and maybe
 00:13 I'll be able to get you some kind of discount
 00:15 if you do decide to sign up based on this.
 00:18 I'll put more details in the readme in the your turn,
-00:20 but be sure to go there this way, talkpython.fm/anvil.
+00:20 but be sure to go there this way,   .fm/anvil.
 00:29 Here's their site, you want to just log in,
 00:32 you'll probably want to sign up.
 00:33 Now, it should take me right there,

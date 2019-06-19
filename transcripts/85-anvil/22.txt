@@ -10,7 +10,7 @@
 00:24 is create a new account and register at Anvil.
 00:26 So be sure to use that URL right there.
 00:29 You can just click on GitHub.
-00:30 It's talkpython.fm/anvil100, and that will get you 10% off.
+00:30 It's   .fm/anvil100, and that will get you 10% off.
 00:34 If for some reason,
 00:35 you do want a subscription in the future.
 00:37 If not, obviously, you don't have to buy anything.

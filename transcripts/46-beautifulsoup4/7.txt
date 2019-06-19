@@ -94,6 +94,6 @@
 05:15 This is now your chance to go out there
 05:17 and try and pass a website.
 05:20 If you want a really fun one,
-05:21 try going to talkpython.fm and try
+05:21 try going to   .fm and try
 05:24 and pull down maybe all the episodes.
 05:26 Either way, have fun, keep calm and code.

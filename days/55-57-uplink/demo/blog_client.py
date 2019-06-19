@@ -11,7 +11,7 @@ from uplink_helpers import raise_for_status
 class BlogClient(uplink.Consumer):
 
     def __init__(self):
-        super().__init__(base_url='http://consumer_services_api.talkpython.fm')
+        super().__init__(base_url='http://consumer_services_api.  .fm')
 
     @uplink.get('/api/blog')
     def all_entries(self) -> requests.models.Response:
